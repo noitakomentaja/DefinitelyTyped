@@ -7,7 +7,6 @@
 /// <reference types="node" />
 
 import events = require("events");
-import Promise = require("bluebird");
 
 type Callback = Function;
 type Client = Function;
